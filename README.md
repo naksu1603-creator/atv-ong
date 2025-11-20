@@ -42,14 +42,5 @@ https://validator.w3.org/
 ## 📸 Imagens
 As imagens estão na pasta `/images` e são apenas ilustrativas.
 
----
 
-## 📢 Observação
-Projeto feito apenas para fins educacionais.  
-Os dados do formulário não são enviados para nenhum servidor.
-
----
-
-## 👤 Autor
-Projeto desenvolvido como atividade da disciplina, por um aluno iniciante.
 
